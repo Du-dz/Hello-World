@@ -22,28 +22,29 @@ Linhas :D
 __*Markdown test*__
 
 **Listas númeradas**
-1.Peito
-   1.triceps
-   1.ombro
-1.Costas
-   1.Biceps
-1.Perna
+
+1. Peito
+   1. triceps
+   1. ombro
+1. Costas
+   1. Biceps
+1. Perna
 
 **Lista demarcada:**
 
-*test
-*test
-*test
-   *test
-   *test
+* test
+* test
+* test
+   * test
+   * test
 
 **Lista de tarefas:**
 
-- [x] Estudar Git e GitHub
-- [] Estudar Lógica de programação
-- [] Estudar HTML
-- [] Estudar CSS
-- [] Estudar Javascript
+- [x]Estudar Git e GitHub
+- []Estudar Lógica de programação
+- []Estudar HTML
+- []Estudar CSS
+- []Estudar Javascript
 
 [titulo do link](link)
 
@@ -56,11 +57,12 @@ Antonio | Medico | 3443
 Anna | Nutricionista | 2043
 
 
-'crase para dizer que se trata de um comando'
+' crase para dizer que se trata de um comando '
 
 '''
-programas entre 3 crases :D
-ou posso usar um print :X
+
+ programas entre 3 crases :D
+ ou posso usar um print :X
 
 '''
 
